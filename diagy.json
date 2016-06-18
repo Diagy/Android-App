@@ -2,7 +2,7 @@
   "type": "component",
   "id": "android_app",
   "label": "Android App",
-  "color": "yellow",
+  "color": "green",
   "connections": [],
   "description": ""
 }
